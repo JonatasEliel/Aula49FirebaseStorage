@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Aula 49 - Firebase Storage</string>
+    <string name="til_label_file">Insira o nome do Arquivo</string>
+</resources>
